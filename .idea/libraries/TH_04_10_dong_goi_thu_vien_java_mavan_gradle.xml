@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TH-04-10-dong-goi-thu-vien-java-mavan-gradle">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>

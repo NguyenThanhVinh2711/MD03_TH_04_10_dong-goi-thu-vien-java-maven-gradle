@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TH-04-10-dong-goi-thu-vien-java-mavan-gradle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TH_04_10_dong_goi_thu_vien_java_mavan_gradle_jar</output-path>
+    <root id="archive" name="TH-04-10-dong-goi-thu-vien-java-mavan-gradle.jar">
+      <element id="module-output" name="TH-04-10-dong-goi-thu-vien-java-mavan-gradle" />
+    </root>
+  </artifact>
+</component>
